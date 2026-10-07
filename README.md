@@ -19,7 +19,7 @@ OmniGrabber/
 ## 启动
 
 ```bash
-cd /Users/eden/workspace/OmniGrabber
+cd .
 ./run.sh start    # 后台启动
 ./run.sh stop     # 停止服务
 ./run.sh restart  # 重启服务
